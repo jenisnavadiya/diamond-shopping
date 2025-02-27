@@ -67,5 +67,5 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/kgk-diamond.git
-   cd kgk-diamond
+   git clone https://github.com/jenisnavadiya/diamond-shopping.git
+   cd diamond-shopping
